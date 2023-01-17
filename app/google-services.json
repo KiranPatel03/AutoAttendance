@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "264025462515",
+    "project_id": "autoattendance-341d2",
+    "storage_bucket": "autoattendance-341d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264025462515:android:3aa332758d301958128986",
+        "android_client_info": {
+          "package_name": "com.example.autoattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264025462515-qajs1la7h9g9nthlcmp9huseiqmh19or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQjdV8hLTQXr_wQII7_ZyhBQgw9iZDD0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264025462515-qajs1la7h9g9nthlcmp9huseiqmh19or.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

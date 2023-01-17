@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AutoAttendance</string>
+
+    <string-array name="colleges">
+        <item>---Select College---</item>
+        <item>U.V Patel College of Engineering,Ganpat University,Kherva</item>
+    </string-array>
+</resources>
